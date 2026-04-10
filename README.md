@@ -200,3 +200,5 @@ If you would like to support the team, consider sponsoring us through one of the
 | Wechat (Ayaka) | <img src="https://ayaka14732.github.io/sponsor/wechat.png" width=150 />                                                                              |
 
 Thank you for being a part of our community, and we look forward to serving you better in the future.
+
+# AI Deploy 2026
